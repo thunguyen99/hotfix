@@ -96,6 +96,11 @@ h4 {
 	margin-top: 20px;
 }
 
+.google_share {
+	margin-left: -25px;
+	margin-top: 2px;
+}
+
 .tested_on {
 	text-align: center;
 	font-size: 10px;
